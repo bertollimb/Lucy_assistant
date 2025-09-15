@@ -44,15 +44,15 @@ python lucy.py
 
 4. **Fale um dos comandos suportados, por exemplo:**
 
--"abrir bloco de notas"
+- "abrir bloco de notas"
 
--"abrir navegador"
+- "abrir navegador"
 
--"que horas são"
+- "que horas são"
 
--"tocar música"
+- "tocar música"
 
--"desligar"
+- "desligar"
 
 **📌 Observações**
 

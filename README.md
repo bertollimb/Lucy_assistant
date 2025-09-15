@@ -32,7 +32,7 @@ Com ela, você pode abrir programas, acessar sites, consultar a hora e até ouvi
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/lucy-assistente.git
+   git clone https://github.com/bertollimb/lucy-assistente.git
    cd lucy-assistente
 
 2. **Instale as dependências**
@@ -43,15 +43,15 @@ python lucy.py
 
 4. **Fale um dos comandos suportados, por exemplo:**
 
-*"abrir bloco de notas"
+- "abrir bloco de notas"
 
-*"abrir navegador"
+- "abrir navegador"
 
-*"que horas são"
+- "que horas são"
 
-*"tocar música"
+- "tocar música"
 
-*"desligar"
+- "desligar"
 
 **📌 Observações**
 
